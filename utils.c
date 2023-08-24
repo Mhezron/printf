@@ -50,6 +50,10 @@ int is_digit(char c)
 
 	return (0);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 58991f3e353895edc835c0f4d5fa1b5d70407c5a
 /**
  * convert_size_number - Casts a number to the specified size
  * @num: Number to be casted.
@@ -83,3 +87,7 @@ long int convert_size_unsgnd(unsigned long int num, int size)
 
 	return ((unsigned int)num);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 58991f3e353895edc835c0f4d5fa1b5d70407c5a

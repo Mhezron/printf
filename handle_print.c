@@ -47,3 +47,7 @@ int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
 	}
 	return (printed_chars);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 58991f3e353895edc835c0f4d5fa1b5d70407c5a
